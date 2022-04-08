@@ -1,0 +1,17 @@
+Company,Job,Degree,Salary
+googl,sales excutive,bachlers,0
+googl,sales excutive,masters,1
+googl,bussiness manager,bachlers,1
+googl,bussiness manager,masters,0
+googl,computer programing,bachlers,1
+googl,computer programing,masters,0
+abc pharma,sales excutive,masters,0
+abc pharma,computer programing,bachlers,0
+abc pharma,bussiness manager,bachlers,1
+abc pharma,bussiness manager,masters,1
+facbook,sales excutive,bachlers,1
+facbook,sales excutive,masters,1
+facbook,bussiness manager,bachlers,1
+facbook,bussiness manager,masters,1
+facbook,computer programing,bachlers,1
+facbook,computer programing,masters,1
